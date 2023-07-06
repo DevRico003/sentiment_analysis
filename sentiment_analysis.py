@@ -40,9 +40,9 @@ if __name__ == '__main__':
 
     with st.form(key='my_form'):
         default_emotions = 'positive, negative, neutral'
-        emotions = st.text_input('Emotionen: ', value=default_emotions)
+        emotions = st.text_input('Emotions: ', value=default_emotions)
 
-        text = st.text_area(label='Text: ')
+        text = st.text_area(label='Text to classify: ')
         submit_button = st.form_submit_button(label='Check!')
 
         if submit_button:
