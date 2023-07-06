@@ -37,6 +37,14 @@ This repository contains an interactive Streamlit application that utilizes Open
 2. Click 'Check!' and the application will classify the sentiment of the text based on predefined emotions.
 3. The result is displayed below the 'Check!' button, and the history is maintained in the 'History' text area.
 
+## Example sentiments
+
+![Example of sentiments](image.png)
+
+## Example True or false
+
+![Example of True or False](image2.png)
+
 ## Contributing
 
 Contributions to this project are welcome! Please feel free to open an issue or submit a pull request.
