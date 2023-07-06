@@ -39,7 +39,7 @@ This repository contains an interactive Streamlit application that utilizes Open
 
 ## Example sentiments
 
-![Example of sentiments](image.png)
+![Example of Sentiment](image.png)
 
 ## Example True or false
 
