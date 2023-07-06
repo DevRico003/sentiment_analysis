@@ -28,7 +28,7 @@ This repository contains an interactive Streamlit application that utilizes Open
    ```
 4. Run the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run sentiment_analysis.py
    ```
 
 ## Usage
