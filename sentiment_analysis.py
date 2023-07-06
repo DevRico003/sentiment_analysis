@@ -34,7 +34,7 @@ if __name__ == '__main__':
     #frontend
     col1, col2 = st.columns([0.85, 0.15])
     with col1:
-        st.title('Zero-Shot Sentimentt Analysis')
+        st.title('Zero-Shot Sentiment Analysis')
     with col2:
         st.image('ai.png', width=70)
 
